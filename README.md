@@ -1,4 +1,4 @@
-# Yu1e_s_Obsidian
+# Yu1e_s_Obsidian-scripts-snippets-and-templates
 
 > ⚠️ **Written entirely by Claude or another AI model** (Claude is Anthropic's AI assistant). No human has reviewed the code line by line. Use at your own risk.
 > ⚠️ **Написано полностью Клодом или другой ИИ-моделью** (Клод — ИИ-ассистент Anthropic). Построчной проверки кода человеком не было. Используйте на свой риск.
@@ -15,8 +15,6 @@ The code block is meant to be used inside a note: it is inserted once, into a se
 
 [multicolumn](https://github.com/Yu1e/Yu1e_s_Obsidian/blob/Templates/multicolumn.md) - a Templater template that works together with the [Horizontal Blocks](https://github.com/iCodeAlchemy/horizontal-blocks) plugin. This template distributes and redistributes text across columns by itself. 
 
-## Template for a personal ink collection
-
 </details>
 
 <details>
@@ -30,7 +28,5 @@ The code block is meant to be used inside a note: it is inserted once, into a se
 ## Шаблон для работы с колонками текста
 
 [multicolumn](https://github.com/Yu1e/Yu1e_s_Obsidian/blob/Templates/multicolumn.md) - шаблон Templater, который работает в связке с плагином [Horizontal Blocks](https://github.com/iCodeAlchemy/horizontal-blocks) . Этот шаблон сам распределяет и перераспределяет текст по колонкам. 
-
-## Шаблон для личной коллекции чернил
 
 </details>
